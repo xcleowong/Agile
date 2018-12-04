@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgileNews", "AgileNews\AgileNews.csproj", "{98F8F032-5DA9-4C1D-A304-1D4B90838F8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgileNewsCommon", "AgileNewsCommon\AgileNewsCommon.csproj", "{BF3C5CBA-30F2-4952-A2FF-534A28239004}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgileNewsCache", "AgileNewsCache\AgileNewsCache.csproj", "{0C1BA3A9-418C-4F0B-AE79-5C0FA9F5B1AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgileNewsEntity", "AgileNewsEntity\AgileNewsEntity.csproj", "{E5A4D4C9-F9D8-4D60-91F4-D372E05326E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IAgileNewsService", "IAgileNewsService\IAgileNewsService.csproj", "{AA426E84-30F8-4A94-BA99-40CB30B3C3F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgileNewsService", "AgileNewsService\AgileNewsService.csproj", "{0A833BCC-77B1-4168-9F93-9567CC4545A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98F8F032-5DA9-4C1D-A304-1D4B90838F8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98F8F032-5DA9-4C1D-A304-1D4B90838F8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98F8F032-5DA9-4C1D-A304-1D4B90838F8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98F8F032-5DA9-4C1D-A304-1D4B90838F8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF3C5CBA-30F2-4952-A2FF-534A28239004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF3C5CBA-30F2-4952-A2FF-534A28239004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF3C5CBA-30F2-4952-A2FF-534A28239004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF3C5CBA-30F2-4952-A2FF-534A28239004}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C1BA3A9-418C-4F0B-AE79-5C0FA9F5B1AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C1BA3A9-418C-4F0B-AE79-5C0FA9F5B1AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C1BA3A9-418C-4F0B-AE79-5C0FA9F5B1AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C1BA3A9-418C-4F0B-AE79-5C0FA9F5B1AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5A4D4C9-F9D8-4D60-91F4-D372E05326E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5A4D4C9-F9D8-4D60-91F4-D372E05326E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5A4D4C9-F9D8-4D60-91F4-D372E05326E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5A4D4C9-F9D8-4D60-91F4-D372E05326E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA426E84-30F8-4A94-BA99-40CB30B3C3F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA426E84-30F8-4A94-BA99-40CB30B3C3F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA426E84-30F8-4A94-BA99-40CB30B3C3F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA426E84-30F8-4A94-BA99-40CB30B3C3F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A833BCC-77B1-4168-9F93-9567CC4545A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A833BCC-77B1-4168-9F93-9567CC4545A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A833BCC-77B1-4168-9F93-9567CC4545A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A833BCC-77B1-4168-9F93-9567CC4545A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BFEC8F8-CAE0-41B3-83BF-8FFC4B69F7E6}
+	EndGlobalSection
+EndGlobal

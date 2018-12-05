@@ -119,6 +119,32 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="CommonDLL\AutoMapper.dll" />
+    <Content Include="CommonDLL\CommonCache.dll" />
+    <Content Include="CommonDLL\Dapper.dll" />
+    <Content Include="CommonDLL\EntityFramework.SqlServer.dll" />
+    <Content Include="CommonDLL\HtmlAgilityPack.dll" />
+    <Content Include="CommonDLL\ICSharpCode.SharpZipLib.dll" />
+    <Content Include="CommonDLL\Newtonsoft.Json.dll" />
+    <Content Include="CommonDLL\NPOI.dll" />
+    <Content Include="CommonDLL\ServiceStack.dll" />
+    <Content Include="CommonDLL\ServiceStack.Interfaces.dll" />
+    <Content Include="CommonDLL\ServiceStack.ServiceInterface.dll" />
+    <Content Include="CommonDLL\SevenZipSharp.dll" />
+    <Content Include="CommonDLL\新建文件夹 %282%29\AgileNewsCache.dll" />
+    <Content Include="CommonDLL\新建文件夹 %282%29\AgileNewsCache.pdb" />
+    <Content Include="CommonDLL\新建文件夹 %282%29\AutoMapper.dll" />
+    <Content Include="CommonDLL\新建文件夹 %282%29\CommonCache.dll" />
+    <Content Include="CommonDLL\新建文件夹 %282%29\Dapper.dll" />
+    <Content Include="CommonDLL\新建文件夹 %282%29\EntityFramework.SqlServer.dll" />
+    <Content Include="CommonDLL\新建文件夹 %282%29\HtmlAgilityPack.dll" />
+    <Content Include="CommonDLL\新建文件夹 %282%29\ICSharpCode.SharpZipLib.dll" />
+    <Content Include="CommonDLL\新建文件夹 %282%29\Newtonsoft.Json.dll" />
+    <Content Include="CommonDLL\新建文件夹 %282%29\NPOI.dll" />
+    <Content Include="CommonDLL\新建文件夹 %282%29\ServiceStack.dll" />
+    <Content Include="CommonDLL\新建文件夹 %282%29\ServiceStack.Interfaces.dll" />
+    <Content Include="CommonDLL\新建文件夹 %282%29\ServiceStack.ServiceInterface.dll" />
+    <Content Include="CommonDLL\新建文件夹 %282%29\SevenZipSharp.dll" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
   </ItemGroup>

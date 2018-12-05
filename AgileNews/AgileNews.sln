@@ -15,6 +15,24 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IAgileNewsService", "IAgile
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgileNewsService", "AgileNewsService\AgileNewsService.csproj", "{0A833BCC-77B1-4168-9F93-9567CC4545A3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CommonDLL", "CommonDLL", "{D8452270-0D4E-41BF-B9E7-FCA2B4070642}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\C#学习\PersonWebApi.WebApi\packages\Newtonsoft.Json.6.0.4\lib\netcore45\AutoMapper.dll = ..\..\..\C#学习\PersonWebApi.WebApi\packages\Newtonsoft.Json.6.0.4\lib\netcore45\AutoMapper.dll
+		..\..\..\C#学习\PersonWebApi.WebApi\packages\Newtonsoft.Json.6.0.4\lib\netcore45\CommonCache.dll = ..\..\..\C#学习\PersonWebApi.WebApi\packages\Newtonsoft.Json.6.0.4\lib\netcore45\CommonCache.dll
+		..\..\..\C#学习\PersonWebApi.WebApi\packages\Newtonsoft.Json.6.0.4\lib\netcore45\Dapper.dll = ..\..\..\C#学习\PersonWebApi.WebApi\packages\Newtonsoft.Json.6.0.4\lib\netcore45\Dapper.dll
+		..\..\..\C#学习\PersonWebApi.WebApi\packages\Newtonsoft.Json.6.0.4\lib\netcore45\EntityFramework.SqlServer.dll = ..\..\..\C#学习\PersonWebApi.WebApi\packages\Newtonsoft.Json.6.0.4\lib\netcore45\EntityFramework.SqlServer.dll
+		..\..\..\C#学习\PersonWebApi.WebApi\packages\Newtonsoft.Json.6.0.4\lib\netcore45\HtmlAgilityPack.dll = ..\..\..\C#学习\PersonWebApi.WebApi\packages\Newtonsoft.Json.6.0.4\lib\netcore45\HtmlAgilityPack.dll
+		..\..\..\C#学习\PersonWebApi.WebApi\packages\Newtonsoft.Json.6.0.4\lib\netcore45\ICSharpCode.SharpZipLib.dll = ..\..\..\C#学习\PersonWebApi.WebApi\packages\Newtonsoft.Json.6.0.4\lib\netcore45\ICSharpCode.SharpZipLib.dll
+		..\..\..\C#学习\PersonWebApi.WebApi\packages\Newtonsoft.Json.6.0.4\lib\netcore45\Newtonsoft.Json.dll = ..\..\..\C#学习\PersonWebApi.WebApi\packages\Newtonsoft.Json.6.0.4\lib\netcore45\Newtonsoft.Json.dll
+		..\..\..\C#学习\PersonWebApi.WebApi\packages\Newtonsoft.Json.6.0.4\lib\netcore45\NPOI.dll = ..\..\..\C#学习\PersonWebApi.WebApi\packages\Newtonsoft.Json.6.0.4\lib\netcore45\NPOI.dll
+		..\..\..\C#学习\PersonWebApi.WebApi\packages\Newtonsoft.Json.6.0.4\lib\netcore45\ServiceStack.dll = ..\..\..\C#学习\PersonWebApi.WebApi\packages\Newtonsoft.Json.6.0.4\lib\netcore45\ServiceStack.dll
+		..\..\..\C#学习\PersonWebApi.WebApi\packages\Newtonsoft.Json.6.0.4\lib\netcore45\ServiceStack.Interfaces.dll = ..\..\..\C#学习\PersonWebApi.WebApi\packages\Newtonsoft.Json.6.0.4\lib\netcore45\ServiceStack.Interfaces.dll
+		..\..\..\C#学习\PersonWebApi.WebApi\packages\Newtonsoft.Json.6.0.4\lib\netcore45\ServiceStack.ServiceInterface.dll = ..\..\..\C#学习\PersonWebApi.WebApi\packages\Newtonsoft.Json.6.0.4\lib\netcore45\ServiceStack.ServiceInterface.dll
+		..\..\..\C#学习\PersonWebApi.WebApi\packages\Newtonsoft.Json.6.0.4\lib\netcore45\SevenZipSharp.dll = ..\..\..\C#学习\PersonWebApi.WebApi\packages\Newtonsoft.Json.6.0.4\lib\netcore45\SevenZipSharp.dll
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgileNewsView", "AgileNewsView\AgileNewsView.csproj", "{CA26BE78-D6AB-494F-B321-0CFBFDE1CC89}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +63,10 @@ Global
 		{0A833BCC-77B1-4168-9F93-9567CC4545A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A833BCC-77B1-4168-9F93-9567CC4545A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A833BCC-77B1-4168-9F93-9567CC4545A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA26BE78-D6AB-494F-B321-0CFBFDE1CC89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA26BE78-D6AB-494F-B321-0CFBFDE1CC89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA26BE78-D6AB-494F-B321-0CFBFDE1CC89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA26BE78-D6AB-494F-B321-0CFBFDE1CC89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

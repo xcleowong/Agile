@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="News.cs" />
+    <Compile Include="NewsType.cs" />
     <Compile Include="PageCriteria.cs" />
     <Compile Include="PageDataView.cs" />
     <Compile Include="Product.cs" />
